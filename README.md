@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a finance and payroll professional growing into data analytics. I enjoy solving problems, improving processes, and finding useful insights in data.
+
+Projects I've worked on include
+
 <!--
 **ezinneonuoha/ezinneonuoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
