@@ -1,6 +1,6 @@
 # Hi there👋
 
-I'm Ezinne and I am a finance and payroll professional growing into data analytics. I enjoy solving problems, improving processes, and finding useful insights in data.
+I'm Ezinne and I am a payroll and finance operations professional growing into data analytics. I enjoy solving problems, improving processes, and finding useful insights in data.
 
 ### Tools & Skills
 - SQL & BigQuery
